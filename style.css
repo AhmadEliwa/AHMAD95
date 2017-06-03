@@ -1,0 +1,72 @@
+
+body
+{
+	background:url("xfgdggd.jpg");
+}
+
+#ahmad
+{
+	border:3pt solid rgb(0,0,0);
+	border-radius:20px;
+	margin-right:975px;
+	padding-left:20px;
+	border-color:red;
+	color:crimson;
+	font-size:18pt;
+	font-family:"calibri"
+}
+#h
+{
+color:red;
+}
+
+#ahmad:after
+{
+	content:"The End.";
+}
+
+a:link
+{
+	color:rad;
+	text-decoration:none;
+}
+a:hover
+{
+	color:#ccc;
+	text-decoration:underline;
+}
+a:active
+{
+	color:black;
+}
+a:visited
+{
+    color:purple;
+}
+#data
+{
+    color:black;
+	font-size:18pt;
+	border:3pt solid rgb(255,68,48);
+	border-radius:20px;
+	margin-right:975px;
+	padding-left:20px;
+}
+h3
+{
+	color:rgb(255,55,255)
+}
+#input
+{
+	color:rgb(255,255,255);
+	font-size:15pt;
+}
+h5
+{
+	color:rgb(255,255,255);
+}
+#img2
+{
+		color:rgb(0,0,0);
+		font-family:"calibri"
+}
